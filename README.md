@@ -12,6 +12,15 @@ A Flutter mobile application that generates quiz questions dynamically using GRO
 - State management using Riverpod
 - Error handling and loading states
 
+## Instruction
+
+- By opening the app you reach the home page
+- Here you can start the quiz, with easy, medium and hard difficulty levels
+- Aftering starting the quiz, you'll have to finish 5 questions
+- Each question needs to be completed in 45 seconds
+- You'll reach results page, here your score and history will be displayed
+- From here you can either try quiz of the same difficulty level, or visit home page
+
 ## Project Structure
 
 ```
