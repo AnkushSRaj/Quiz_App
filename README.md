@@ -2,6 +2,19 @@
 
 A Flutter mobile application that generates quiz questions dynamically using GROQ.com's LLM APIs. The app features a modern UI and uses Riverpod for state management.
 
+## Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/AnkushSRaj/Quiz_App.git
+   ```
+2. Navigate into the project directory:
+   cd Quiz_App
+3. Install the dependencies:
+   flutter pub get
+4. Usage:
+   flutter run
+
 ## Features
 
 - Dynamic quiz question generation using GROQ.com's LLM APIs
